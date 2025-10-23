@@ -61,6 +61,10 @@
 
 ## OpenAI Chat Node → generates responses to client questions after notifications.
 
+
+![Workflow Diagram](images/WorkFlow_Diagram.png)
+
+
 ## Function Node → formats AI responses for delivery.
 
 ## Email/Twilio Node → sends AI-generated messages if needed.
