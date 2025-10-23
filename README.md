@@ -85,6 +85,8 @@
 
 
 **Another idea is in idea2.md**
+[idea2.md](idea2.md)
+
 
 
 
