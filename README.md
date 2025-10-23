@@ -1,5 +1,8 @@
 # Team_ZX_Project
 
+# Idea 1
+
+
 ## 🐾 AI-Powered Veterinary Disease Prediction System
 
 # 📘 Overview
@@ -23,6 +26,8 @@
 - The full model development, preprocessing, and evaluation can be found in the notebook file
   
 - Techniques like feature encoding, data normalization, and model accuracy evaluation are implemented for optimal performance.
+
+- **Ensemble Approach for Higher Accuracy:** By combining multiple machine learning models, the system leverages the strengths of each model to improve overall disease prediction accuracy.
 
 ## 👨‍⚕️ Doctor Assignment System
 
@@ -67,20 +72,42 @@
 **Input: Breed + Symptoms**
 
       ↓
-      
 **Data Preprocessing**
 
       ↓
-      
 **Feature Encoding: LabelEncoder / OneHotEncoder**
 
       ↓
-      
 **Model Training: RandomForestClassifier**
 
       ↓
-      
 **Prediction: Most Probable Disease**
+
+
+
+
+
+# Idea 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Team Members
 - **Koshika Mani (ID: B2001603)**  
