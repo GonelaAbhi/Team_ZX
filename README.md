@@ -1,6 +1,6 @@
 # Team_ZX_Project
 
-🐾 AI-Powered Veterinary Disease Prediction System
+## 🐾 AI-Powered Veterinary Disease Prediction System
 
 # 📘 Overview
 
@@ -64,16 +64,35 @@
 
 # 🧪 Model Pipeline
 
+**Input: Breed + Symptoms**
 
-**Input:** Breed + Symptoms  
-          **↓**  
-**Data Preprocessing**  
-          **↓**  
-**Feature Encoding:** LabelEncoder / OneHotEncoder  
-          **↓**  
-**Model Training:** RandomForestClassifier  
-          **↓**  
-**Prediction:** Most Probable Disease
+      ↓
+      
+**Data Preprocessing**
+
+      ↓
+      
+**Feature Encoding: LabelEncoder / OneHotEncoder**
+
+      ↓
+      
+**Model Training: RandomForestClassifier**
+
+      ↓
+      
+**Prediction: Most Probable Disease**
+
+## Team Members
+- **Koshika Mani (ID: B2001603)**  
+- **Gaddam Purushotham (ID: B201058)**  
+- **Legisheeti Naveen (ID: B200696)**  
+- **Gonela Abhilash (ID: B200232)**
+
+
+
+
+
+
 
 
 
