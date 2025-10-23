@@ -84,19 +84,7 @@
 **Prediction: Most Probable Disease**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Another idea is in idea2.md**
 
 
 
@@ -109,7 +97,7 @@
 
 
 ## Team Members
-- **Koshika Mani (ID: B2001603)**  
+- **Koshika Mani (ID: B201603)**  
 - **Gaddam Purushotham (ID: B201058)**  
 - **Legisheeti Naveen (ID: B200696)**  
 - **Gonela Abhilash (ID: B200232)**
