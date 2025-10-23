@@ -85,7 +85,7 @@
 
 
 **Another idea is in idea2.md**
-[idea2.md](idea2.md)
+[idea2.md](https://github.com/GonelaAbhi/Team_ZX/blob/main/Idea2.md)
 
 
 
